@@ -13,8 +13,8 @@
 // ==/UserScript==
 var my_data=new FormData();
 var mytoken = _token
-my_data.append('os','272');
-my_data.append('hostname','cc.yourname.xyz');
+my_data.append('os','979');
+my_data.append('hostname','cc.k2p.ltd');
 my_data.append('plan','34');
 my_data.append('method','provision');
 my_data.append('_token',mytoken);
